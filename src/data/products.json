@@ -1,1 +1,41 @@
-[]
+[
+  {
+    "id": 1,
+    "status": true,
+    "title": "Samsung Galaxy S23",
+    "description": "Smartphone con pantalla AMOLED de 6.1 pulgadas, procesador Snapdragon 8 Gen 2, 128 GB de almacenamiento y cámara triple de 50 MP.",
+    "code": "SGS23-001",
+    "price": 799.99,
+    "stock": 25,
+    "category": "Smartphones",
+    "thumbnails": [
+      "/images/samsung-galaxy-s23.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "status": true,
+    "title": "Sony WH-1000XM5",
+    "description": "Auriculares inalámbricos con cancelación de ruido líder en la industria, audio de alta resolución y batería de 30 horas.",
+    "code": "SONY-XM5-002",
+    "price": 399.99,
+    "stock": 15,
+    "category": "Auriculares",
+    "thumbnails": [
+      "/images/sony-wh1000xm5.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "status": true,
+    "title": "Logitech MX Master 3S",
+    "description": "Ratón ergonómico inalámbrico con sensor de 8000 DPI, desplazamiento ultrarrápido y compatibilidad multiplataforma.",
+    "code": "LOGI-MX3S-003",
+    "price": 99.99,
+    "stock": 20,
+    "category": "Accesorios",
+    "thumbnails": [
+      "/images/logitech-mx-master-3s.jpg"
+    ]
+  }
+]
